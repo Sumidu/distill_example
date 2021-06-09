@@ -1,0 +1,20 @@
+---
+title: "Daten Analyse"
+description: |
+  Diese Seite beinhaltet unsere Datenanalysen.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+# Überschrift 1
+
+## Überschrift 2
+
+[google](http://www.google.com)

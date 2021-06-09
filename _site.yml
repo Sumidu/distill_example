@@ -1,0 +1,28 @@
+name: "distill_example"
+title: "My Example Website"
+description: |
+  My Example Website
+output_dir: "_site"
+exclude: ["data.csv"]
+navbar:
+  search: true
+  left:
+    logo:
+      image: images/logo.png
+      href: https://www.rstudio.com
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Daten Analyse"
+      menu:
+        - text: "Wichtiges"
+        - text: "Datenanalyse 1"
+          href: data_analysis.html
+        - text: "---"
+        - text: "Publishing a Website"
+          href: data_analysis.html
+    - icon: fab fa-download
+      href: https://github.com/rstudio/distill
+    - text: "About"
+      href: about.html
+output: distill::distill_article
