@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-09T11:09:32+02:00"
+    },
+    {
+      "path": "data_analysis.html",
+      "title": "Daten Analyse",
+      "description": "Diese Seite beinhaltet unsere Datenanalysen.\n",
+      "author": [],
+      "contents": "\nÜberschrift 1\nÜberschrift 2\ngoogle\n\n\n\n",
+      "last_modified": "2021-06-09T11:09:33+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Example Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nThis is my first heading\nThis is my first subheading\n\n\n\n\n\n\n",
+      "last_modified": "2021-06-09T11:09:34+02:00"
+    }
+  ],
+  "collections": []
+}

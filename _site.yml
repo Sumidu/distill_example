@@ -11,7 +11,8 @@ navbar:
       image: images/logo.png
       href: https://www.rstudio.com
   right:
-    - text: "Home"
+    - icon: fa-home
+      text: "Home"
       href: index.html
     - text: "Daten Analyse"
       menu:
@@ -21,7 +22,7 @@ navbar:
         - text: "---"
         - text: "Publishing a Website"
           href: data_analysis.html
-    - icon: fab fa-download
+    - icon: fa-download
       href: https://github.com/rstudio/distill
     - text: "About"
       href: about.html
